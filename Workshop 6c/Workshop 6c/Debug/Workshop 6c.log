@@ -1,0 +1,4 @@
+﻿  Zebra.cpp
+C:\Users\Computing\source\repos\Workshop 6c\Workshop 6c\Zebra.cpp(11,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\Computing\source\repos\Workshop 6c\Workshop 6c\Zebra.cpp(11,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'std::string'
+  Workshop 6c.vcxproj -> C:\Users\Computing\source\repos\Workshop 6c\Debug\Workshop 6c.exe

@@ -1,0 +1,5 @@
+﻿  Student.cpp
+C:\Users\Computing\source\repos\Workshop5\Workshop5\Student.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+  Workshop5.cpp
+  Generating Code...
+  Workshop5.vcxproj -> C:\Users\Computing\source\repos\Workshop5\Debug\Workshop5.exe
